@@ -1,0 +1,73 @@
+{
+  "north": [
+    "central-north",
+    "central-south",
+    "east",
+    "west",
+    "sherwood-park",
+    "st-albert"
+  ],
+  "central-north": [
+    "north",
+    "central-south",
+    "east",
+    "uofa",
+    "grant-macewan",
+    "downtown"
+  ],
+  "south": [
+    "central-south",
+    "east",
+    "west",
+    "sherwood-park"
+  ],
+  "central-south": [
+    "north",
+    "central-north",
+    "south",
+    "east",
+    "west",
+    "uofa",
+    "downtown"
+  ],
+  "east": [
+    "north",
+    "central-north",
+    "south",
+    "central-south",
+    "sherwood-park"
+  ],
+  "west": [
+    "north",
+    "south",
+    "central-south"
+  ],
+  "uofa": [
+    "central-north",
+    "central-south"
+  ],
+  "grant-macewan": [
+    "central-north",
+    "downtown"
+  ],
+  "downtown": [
+    "central-north",
+    "central-south",
+    "grant-macewan"
+  ],
+  "sherwood-park": [
+    "north",
+    "south",
+    "east"
+  ],
+  "beaumont": [],
+  "leduc": [],
+  "st-albert": [
+    "north"
+  ],
+  "fort-saskatchewan": [],
+  "spruce-grove": [],
+  "stony-plain": [],
+  "morinville": [],
+  "devon": []
+}
