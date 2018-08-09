@@ -306,6 +306,44 @@
         <styleUrl>#poly-7CB342-5000-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-817717-5000-77-nodesc-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-817717-5000-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>7.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-817717-5000-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-817717-5000-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-817717-5000-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-880E4F-5000-77-nodesc-normal">
       <LineStyle>
         <color>ff4f0e88</color>
@@ -458,6 +496,44 @@
         <styleUrl>#poly-BCAAA4-5000-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-F48FB1-5000-77-nodesc-normal">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F48FB1-5000-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>7.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F48FB1-5000-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F48FB1-5000-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F48FB1-5000-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-F57C00-5000-77-nodesc-normal">
       <LineStyle>
         <color>ff007cf5</color>
@@ -572,39 +648,44 @@
         <styleUrl>#poly-FF5252-5000-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Placemark>
-      <name>#north</name>
-      <styleUrl>#poly-F9A825-5000-77-nodesc</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <tessellate>1</tessellate>
-            <coordinates>
-              -113.453236,53.580888,0
-              -113.452849,53.57039,0
-              -113.438054,53.555887,0
-              -113.423156,53.563648,0
-              -113.407491,53.563074,0
-              -113.392124,53.552343,0
-              -113.383453,53.553224,0
-              -113.374271,53.571944,0
-              -113.344445,53.57002,0
-              -113.345366,53.586467,0
-              -113.357966,53.61728,0
-              -113.393154,53.63703,0
-              -113.438816,53.646876,0
-              -113.516922,53.646673,0
-              -113.565846,53.635987,0
-              -113.654971,53.587171,0
-              -113.662121,53.574048,0
-              -113.626209,53.571793,0
-              -113.582153,53.581398,0
-              -113.453236,53.580888,0
-            </coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
+    <Style id="poly-FFD600-5000-77-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FFD600-5000-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>7.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FFD600-5000-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFD600-5000-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFD600-5000-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Placemark>
       <name>#central-north</name>
       <styleUrl>#poly-0288D1-5000-77-nodesc</styleUrl>
@@ -621,7 +702,7 @@
               -113.541035,53.540986,0
               -113.53855,53.53715,0
               -113.530515,53.533163,0
-              -113.517964,53.530553,0
+              -113.514874,53.530476,0
               -113.510722,53.530603,0
               -113.508566,53.534189,0
               -113.508416,53.544573,0
@@ -631,51 +712,14 @@
               -113.493612,53.548226,0
               -113.488237,53.548762,0
               -113.485446,53.542237,0
-              -113.483387,53.53954,0
-              -113.465095,53.53955,0
-              -113.461264,53.541446,0
+              -113.483344,53.539667,0
+              -113.464988,53.540327,0
+              -113.461672,53.54165,0
               -113.468538,53.55167,0
               -113.465136,53.555156,0
               -113.438054,53.555887,0
               -113.452839,53.57039,0
               -113.453225,53.580888,0
-            </coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>#south</name>
-      <styleUrl>#poly-0F9D58-5000-77-nodesc</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <tessellate>1</tessellate>
-            <coordinates>
-              -113.45345,53.484905,0
-              -113.479972,53.480768,0
-              -113.500614,53.480589,0
-              -113.520913,53.483092,0
-              -113.571339,53.482785,0
-              -113.58835,53.483288,0
-              -113.595672,53.480946,0
-              -113.618932,53.48922,0
-              -113.627472,53.486054,0
-              -113.62524,53.478265,0
-              -113.605928,53.471752,0
-              -113.606336,53.464701,0
-              -113.624017,53.454097,0
-              -113.659487,53.430606,0
-              -113.639488,53.395664,0
-              -113.418217,53.395869,0
-              -113.369122,53.424929,0
-              -113.3429,53.454036,0
-              -113.34266,53.482894,0
-              -113.368864,53.482428,0
-              -113.394184,53.48728,0
-              -113.417959,53.487228,0
-              -113.442078,53.484981,0
-              -113.45345,53.484905,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -697,29 +741,26 @@
               -113.571339,53.482785,0
               -113.520913,53.483092,0
               -113.500614,53.480589,0
-              -113.479972,53.480768,0
-              -113.45345,53.484905,0
-              -113.442507,53.484905,0
-              -113.443108,53.545586,0
-              -113.437958,53.549487,0
-              -113.438054,53.555887,0
-              -113.465136,53.555156,0
-              -113.468538,53.55167,0
-              -113.461264,53.541446,0
-              -113.465202,53.539673,0
-              -113.483387,53.53954,0
-              -113.487248,53.537162,0
-              -113.489916,53.529082,0
-              -113.49402,53.527045,0
-              -113.510722,53.530603,0
-              -113.517964,53.530553,0
-              -113.517888,53.518082,0
-              -113.520853,53.518096,0
-              -113.525726,53.516496,0
-              -113.532626,53.517634,0
-              -113.53257,53.523009,0
-              -113.530626,53.522975,0
-              -113.530515,53.533163,0
+              -113.486109,53.480436,0
+              -113.486045,53.48811,0
+              -113.467269,53.488224,0
+              -113.467194,53.493893,0
+              -113.453,53.493969,0
+              -113.442708,53.500303,0
+              -113.442886,53.507147,0
+              -113.430393,53.515812,0
+              -113.438852,53.518018,0
+              -113.473442,53.518094,0
+              -113.486145,53.518068,0
+              -113.486246,53.514028,0
+              -113.512013,53.514071,0
+              -113.525804,53.516517,0
+              -113.525806,53.514643,0
+              -113.537308,53.51453,0
+              -113.537088,53.518539,0
+              -113.542158,53.523949,0
+              -113.538603,53.532139,0
+              -113.540077,53.534898,0
               -113.538561,53.53715,0
               -113.55413,53.536762,0
               -113.55782,53.529442,0
@@ -734,6 +775,33 @@
       </Polygon>
     </Placemark>
     <Placemark>
+      <name>#downtown-legislature</name>
+      <styleUrl>#poly-FF5252-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.501108,53.548289,0
+              -113.501172,53.544592,0
+              -113.508416,53.544573,0
+              -113.508566,53.534189,0
+              -113.510722,53.530603,0
+              -113.49402,53.527045,0
+              -113.489916,53.529082,0
+              -113.488226,53.533237,0
+              -113.487248,53.537162,0
+              -113.483344,53.539667,0
+              -113.485446,53.542237,0
+              -113.488237,53.548762,0
+              -113.493612,53.548226,0
+              -113.501108,53.548289,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
       <name>#east</name>
       <styleUrl>#poly-880E4F-5000-77-nodesc</styleUrl>
       <Polygon>
@@ -742,21 +810,158 @@
             <tessellate>1</tessellate>
             <coordinates>
               -113.374271,53.571944,0
-              -113.383453,53.553224,0
-              -113.392124,53.552343,0
-              -113.407491,53.563074,0
-              -113.423156,53.563648,0
-              -113.433022,53.559328,0
+              -113.382616,53.552765,0
+              -113.391652,53.551119,0
+              -113.408414,53.562412,0
+              -113.422898,53.563151,0
               -113.438054,53.555887,0
-              -113.437958,53.549487,0
-              -113.443108,53.545586,0
-              -113.442507,53.484905,0
-              -113.417959,53.487228,0
-              -113.394184,53.48728,0
-              -113.368864,53.482428,0
-              -113.34266,53.482894,0
+              -113.465136,53.555156,0
+              -113.468538,53.55167,0
+              -113.461672,53.54165,0
+              -113.464988,53.540327,0
+              -113.483344,53.539667,0
+              -113.487248,53.537162,0
+              -113.488226,53.533237,0
+              -113.482005,53.532932,0
+              -113.473442,53.518094,0
+              -113.438852,53.518018,0
+              -113.430393,53.515812,0
+              -113.420821,53.514158,0
+              -113.402209,53.516813,0
+              -113.371503,53.517476,0
+              -113.344377,53.512915,0
               -113.344445,53.57002,0
               -113.374271,53.571944,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>#macewan</name>
+      <styleUrl>#poly-817717-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.513952,53.54825,0
+              -113.513995,53.544609,0
+              -113.508416,53.544573,0
+              -113.501172,53.544592,0
+              -113.501108,53.548289,0
+              -113.513952,53.54825,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>#north</name>
+      <styleUrl>#poly-F9A825-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.453236,53.580888,0
+              -113.452849,53.57039,0
+              -113.438054,53.555887,0
+              -113.422898,53.563151,0
+              -113.408414,53.562412,0
+              -113.391652,53.551119,0
+              -113.382616,53.552765,0
+              -113.374271,53.571944,0
+              -113.344445,53.57002,0
+              -113.345366,53.586467,0
+              -113.357966,53.61728,0
+              -113.393154,53.63703,0
+              -113.438816,53.646876,0
+              -113.516922,53.646673,0
+              -113.565846,53.635987,0
+              -113.654971,53.587171,0
+              -113.662121,53.574048,0
+              -113.626209,53.571793,0
+              -113.582153,53.581398,0
+              -113.453236,53.580888,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>#south-west</name>
+      <styleUrl>#poly-0F9D58-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.486109,53.480436,0
+              -113.500614,53.480589,0
+              -113.520913,53.483092,0
+              -113.571339,53.482785,0
+              -113.58835,53.483288,0
+              -113.595672,53.480946,0
+              -113.618932,53.48922,0
+              -113.627472,53.486054,0
+              -113.62524,53.478265,0
+              -113.605928,53.471752,0
+              -113.606336,53.464701,0
+              -113.624017,53.454097,0
+              -113.659487,53.430606,0
+              -113.639488,53.395664,0
+              -113.483233,53.395716,0
+              -113.48321,53.410192,0
+              -113.477646,53.419859,0
+              -113.479908,53.424921,0
+              -113.479923,53.430841,0
+              -113.481998,53.433642,0
+              -113.484088,53.441033,0
+              -113.480671,53.443838,0
+              -113.479141,53.449941,0
+              -113.479031,53.456156,0
+              -113.485983,53.460847,0
+              -113.486109,53.480436,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>#south-east</name>
+      <styleUrl>#poly-F48FB1-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.344488,53.395716,0
+              -113.34266,53.482894,0
+              -113.344377,53.512915,0
+              -113.371503,53.517476,0
+              -113.402209,53.516813,0
+              -113.420821,53.514158,0
+              -113.430393,53.515812,0
+              -113.442886,53.507147,0
+              -113.442708,53.500303,0
+              -113.453,53.493969,0
+              -113.467194,53.493893,0
+              -113.467269,53.488224,0
+              -113.486045,53.48811,0
+              -113.486109,53.480436,0
+              -113.485983,53.460847,0
+              -113.479031,53.456156,0
+              -113.479141,53.449941,0
+              -113.480671,53.443838,0
+              -113.484088,53.441033,0
+              -113.481998,53.433642,0
+              -113.479923,53.430841,0
+              -113.479908,53.424921,0
+              -113.477646,53.419859,0
+              -113.48321,53.410192,0
+              -113.483233,53.395716,0
+              -113.344488,53.395716,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -806,6 +1011,31 @@
       </Polygon>
     </Placemark>
     <Placemark>
+      <name>#whyte-ave</name>
+      <styleUrl>#poly-FFD600-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.486246,53.514028,0
+              -113.486145,53.518068,0
+              -113.473442,53.518094,0
+              -113.482005,53.532932,0
+              -113.488226,53.533237,0
+              -113.489916,53.529082,0
+              -113.49402,53.527045,0
+              -113.510722,53.530603,0
+              -113.514874,53.530476,0
+              -113.512031,53.523952,0
+              -113.512013,53.514071,0
+              -113.486246,53.514028,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
       <name>#uofa</name>
       <styleUrl>#poly-097138-5000-77-nodesc</styleUrl>
       <Polygon>
@@ -814,59 +1044,18 @@
             <tessellate>1</tessellate>
             <coordinates>
               -113.530515,53.533163,0
-              -113.530626,53.522975,0
-              -113.53257,53.523009,0
-              -113.532626,53.517634,0
-              -113.525726,53.516496,0
-              -113.520853,53.518096,0
-              -113.517888,53.518082,0
-              -113.517964,53.530553,0
+              -113.53855,53.53715,0
+              -113.540077,53.534898,0
+              -113.538603,53.532139,0
+              -113.542158,53.523949,0
+              -113.537088,53.518539,0
+              -113.537308,53.51453,0
+              -113.525806,53.514643,0
+              -113.525804,53.516517,0
+              -113.512013,53.514071,0
+              -113.512015,53.523947,0
+              -113.514874,53.530476,0
               -113.530515,53.533163,0
-            </coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>#grant-macewan</name>
-      <styleUrl>#poly-880E4F-5000-77-nodesc</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <tessellate>1</tessellate>
-            <coordinates>
-              -113.513952,53.54825,0
-              -113.513995,53.544609,0
-              -113.508416,53.544573,0
-              -113.501172,53.544592,0
-              -113.501108,53.548289,0
-              -113.513952,53.54825,0
-            </coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>#downtown</name>
-      <styleUrl>#poly-FF5252-5000-77-nodesc</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <tessellate>1</tessellate>
-            <coordinates>
-              -113.501108,53.548289,0
-              -113.501172,53.544592,0
-              -113.508416,53.544573,0
-              -113.508566,53.534189,0
-              -113.510722,53.530603,0
-              -113.49402,53.527045,0
-              -113.489916,53.529082,0
-              -113.487248,53.537162,0
-              -113.483387,53.53954,0
-              -113.485446,53.542237,0
-              -113.488237,53.548762,0
-              -113.493612,53.548226,0
-              -113.501108,53.548289,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
@@ -882,6 +1071,7 @@
             <coordinates>
               -113.22115,53.570084,0
               -113.344445,53.57002,0
+              -113.344377,53.512915,0
               -113.34266,53.482894,0
               -113.285093,53.482913,0
               -113.285093,53.468303,0
@@ -912,31 +1102,6 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#leduc</name>
-      <styleUrl>#poly-BCAAA4-5000-77-nodesc</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <tessellate>1</tessellate>
-            <coordinates>
-              -113.500872,53.235222,0
-              -113.512835,53.264642,0
-              -113.537178,53.284408,0
-              -113.5496239,53.3384068,0
-              -113.5694501,53.3377406,0
-              -113.5989,53.3125355,0
-              -113.598118,53.279739,0
-              -113.598054,53.250567,0
-              -113.56164,53.25058,0
-              -113.561811,53.2438,0
-              -113.549452,53.235016,0
-              -113.500872,53.235222,0
-            </coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name>#st-albert</name>
       <styleUrl>#poly-006064-5000-77-nodesc</styleUrl>
       <Polygon>
@@ -957,7 +1122,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#fort-saskatchewan</name>
+      <name>#fort-sask</name>
       <styleUrl>#poly-880E4F-5000-77-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -1043,6 +1208,27 @@
               -113.707981,53.323184,0
               -113.707809,53.38169,0
               -113.763599,53.38128,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>#leduc</name>
+      <styleUrl>#poly-BCAAA4-5000-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -113.500872,53.235222,0
+              -113.512835,53.352954,0
+              -113.547993,53.352806,0
+              -113.598032,53.307442,0
+              -113.598118,53.279739,0
+              -113.598282,53.250567,0
+              -113.549452,53.235016,0
+              -113.500872,53.235222,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
