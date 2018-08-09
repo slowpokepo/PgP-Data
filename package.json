@@ -1,11 +1,11 @@
 {
   "name": "PgP-Data",
   "version": "1.0.0",
-  "description": "Pokemon Go Pittsburgh gym data",
-  "author": "Matt Legowski",
+  "description": "Pokemon Go Edmonton gym data",
+  "author": "hvk",
   "repository": {
     "type": "git",
-    "url": "git+https://www.github.com/Googer/PgP-Data"
+    "url": "git+https://www.github.com/slowpokepo/PgP-Data"
   },
   "license": "GPLv3"
 }
