@@ -1,73 +1,87 @@
 {
-  "north": [
+  "central-north": [
+    "downtown-legislature",
+    "east",
+    "macewan",
+    "north",
+    "whyte-ave",
+    "uofa"
+  ],
+  "central-south": [
+    "east",
+    "south-west",
+    "south-east",
+    "west",
+    "whyte-ave",
+    "uofa"
+  ],
+  "downtown-legislature": [
+    "central-north",
+    "east",
+    "macewan",
+    "whyte-ave"
+  ],
+  "east": [
     "central-north",
     "central-south",
+    "downtown-legislature",
+    "north",
+    "south-east",
+    "whyte-ave",
+    "sherwood-park"
+  ],
+  "macewan": [
+    "central-north",
+    "downtown-legislature"
+  ],
+  "north": [
+    "central-north",
     "east",
     "west",
     "sherwood-park",
     "st-albert"
   ],
-  "central-north": [
-    "north",
+  "south-west": [
+    "central-south",
+    "south-east",
+    "west"
+  ],
+  "south-east": [
     "central-south",
     "east",
-    "uofa",
-    "grant-macewan",
-    "downtown"
-  ],
-  "south": [
-    "central-south",
-    "east",
-    "west",
-    "sherwood-park"
-  ],
-  "central-south": [
-    "north",
-    "central-north",
-    "south",
-    "east",
-    "west",
-    "uofa",
-    "downtown"
-  ],
-  "east": [
-    "north",
-    "central-north",
-    "south",
-    "central-south",
+    "south-west",
     "sherwood-park"
   ],
   "west": [
+    "central-south",
     "north",
-    "south",
-    "central-south"
+    "south-west"
+  ],
+  "whyte-ave": [
+    "central-north",
+    "central-south",
+    "downtown-legislature",
+    "east",
+    "uofa"
   ],
   "uofa": [
     "central-north",
-    "central-south"
-  ],
-  "grant-macewan": [
-    "central-north",
-    "downtown"
-  ],
-  "downtown": [
-    "central-north",
     "central-south",
-    "grant-macewan"
+    "whyte-ave"
   ],
   "sherwood-park": [
+    "east",
     "north",
-    "south",
-    "east"
+    "south-east"
   ],
   "beaumont": [],
-  "leduc": [],
   "st-albert": [
     "north"
   ],
-  "fort-saskatchewan": [],
+  "fort-sask": [],
   "spruce-grove": [],
   "stony-plain": [],
   "morinville": [],
-  "devon": []
+  "devon": [],
+  "leduc": []
 }
