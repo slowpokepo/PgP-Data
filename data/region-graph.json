@@ -38,8 +38,8 @@
     "central-north",
     "east",
     "west",
-    "sherwood-park",
-    "st-albert"
+    "st-albert",
+    "sherwood-park"
   ],
   "south-west": [
     "central-south",
@@ -69,15 +69,15 @@
     "central-south",
     "whyte-ave"
   ],
+  "st-albert": [
+    "north"
+  ],
   "sherwood-park": [
     "east",
     "north",
     "south-east"
   ],
   "beaumont": [],
-  "st-albert": [
-    "north"
-  ],
   "fort-sask": [],
   "spruce-grove": [],
   "stony-plain": [],
