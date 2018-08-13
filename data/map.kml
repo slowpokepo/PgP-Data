@@ -726,8 +726,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#central-south
-</name>
+      <name>#central-south</name>
       <styleUrl>#poly-000000-6601-77-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -839,8 +838,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#macewan
-</name>
+      <name>#macewan</name>
       <styleUrl>#poly-817717-4601-77-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
