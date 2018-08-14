@@ -19,7 +19,8 @@
     "central-north",
     "east",
     "macewan",
-    "whyte-ave"
+    "whyte-ave",
+    "uofa"
   ],
   "east": [
     "central-north",
@@ -67,6 +68,7 @@
   "uofa": [
     "central-north",
     "central-south",
+    "downtown-legislature",
     "whyte-ave"
   ],
   "st-albert": [
