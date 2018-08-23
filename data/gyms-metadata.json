@@ -45,6 +45,9 @@
     "131f946dbf39474ea16c3f831a15103d.16": {
         "is_ex": true
     },
+    "13e17e706b6c415394defe3622ed5a77.16": {
+        "additional_terms": "BLVD"
+    },
     "1557003cb31548368e6b17c44e95285b.16": {
         "is_ex": true
     },
@@ -87,6 +90,9 @@
     "24ddec3bd9ee459a88087b70655b949c.16": {
         "is_ex": true
     },
+    "26d4912d78f04dd396b0676d9467da77.11": {
+        "additional_terms": "South Campus LRT"
+    },
     "2744bdb69f6a4273a1d2bd4bfc3afb83.16": {
         "is_ex": true
     },
@@ -124,10 +130,10 @@
         "is_ex": true
     },
     "3f08fb80df794108b08b21d90b2f3ef9.16": {
-        "additional_terms": "TRC"
+        "additional_terms": "TCC"
     },
     "3f9487a018124599bae5eecccfa1842b.11": {
-        "additional_terms": "TCC"
+        "additional_terms": "TRC"
     },
     "3facc26eee7149d28c7b50f91357588f.16": {
         "is_ex": true
@@ -465,6 +471,9 @@
     },
     "cbfb036c07a54260bed0d34b8da25b60.16": {
         "is_ex": true
+    },
+    "cdcfab5a13bc4056b3c3d374e486cfa6.16": {
+        "additional_terms": "Rutherford Park"
     },
     "ceb2e9165cac4ef38c98b6207d6f5f69.16": {
         "is_ex": true
