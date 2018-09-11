@@ -1,5 +1,6 @@
 {
   "central-north": [
+    "central-south",
     "downtown-legislature",
     "east",
     "macewan",
@@ -8,6 +9,7 @@
     "uofa"
   ],
   "central-south": [
+    "central-north",
     "east",
     "south-west",
     "south-east",
