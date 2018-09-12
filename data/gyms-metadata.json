@@ -12,6 +12,9 @@
     "0add7f1382914edd9218f97716cd51d0.16": {
         "is_ex": true
     },
+    "0ce270b195d14fe89c429ba63435f0f2.16": {
+        "nickname": "Cenotaph"
+    },
     "0f360a5dc3d649a1942c62a1fd93f867.16": {
         "is_ex": true
     },
@@ -33,10 +36,14 @@
     "1e0309403c104909bee8507f74354248.16": {
         "is_ex": true
     },
+    "1f68c6c8250e43edb730e3cc5050bca3.16": {
+        "nickname": "United Church"
+    },
     "1f2a2756fc4342cc933c88ca0248329b.16": {
         "is_ex": true
     },
     "22abfcd516db437eb77cfbc98c632703.16": {
+        "nickname": "Arena Sports Centre",
         "is_ex": true
     },
     "236229ade3a64c5bb1b333577cf84d5b.16": {
@@ -87,6 +94,9 @@
     "4928b0645d914a089b360b72f3e315de.16": {
         "is_ex": true
     },
+    "497b946db40e40e99bca2bfcf26a5b57.16": {
+        "nickname": "Greens Stone"
+    },
     "4ac39a3c187e45ea8ee13e12f591ebdb.16": {
         "additional_terms": "Tory Gazebo",
         "is_ex": true
@@ -106,8 +116,14 @@
     "4ce7ad8f0ba745ae9e2e236ddd516e12.16": {
         "is_ex": true
     },
+    "4cfaa95f9cc242a796e36843cb8e7a34.16": {
+        "additional_terms": "Meadows Rec"
+    },
     "4e720e03eb8e4441a36a8a9e08485dbb.16": {
         "is_ex": true
+    },
+    "53423435113457378": {
+        "nickname": "Summerside Playground"
     },
     "53453558113597796": {
         "is_ex": true
@@ -121,6 +137,9 @@
     },
     "53537181113517685": {
         "is_ex": true
+    },
+    "50a54572724f490cb2ad626fb64fa93c.16": {
+        "nickname": "Meadows Mural Transformer"
     },
     "557ecb80001d4873b8e5ce48ae4dcbd9.16": {
         "is_ex": true
@@ -140,7 +159,12 @@
     "5faae8dc7c854e95ade72658ce6a4e5f.11": {
         "is_ex": true
     },
+    "621f7f133efb45308061e4017d0c160e.16": {
+        "additional_terms": "Bev Facey",
+        "nickname": "Power Box Art"
+    },
     "624eda9c18d44ffc885b85412c4b4526.16": {
+        "additional_terms": "GARC",
         "is_ex": true
     },
     "6260cd88d3ee4acc9e98fa696e5001d0.16": {
@@ -158,6 +182,9 @@
     "673f7ef18bf942c683caf17a65bc177f.16": {
         "is_ex": true
     },
+    "67747f6472d646ea8cc80dea3b32180d.16": {
+        "additional_terms": "Moravian Church"
+    },
     "6827e7c9a14043729eb0d5bc0770a831.16": {
         "is_ex": true
     },
@@ -172,6 +199,9 @@
     },
     "69d66105c7c84e4a9d835f6568829096.16": {
         "is_ex": true
+    },
+    "6b0a7cec906c4ac6a29756ed06deded2.16": {
+        "nickname": "Station 6 Dalmation"
     },
     "6befbabdf864414ea9bc5392e9a60351.16": {
         "is_ex": true
@@ -188,11 +218,17 @@
     "72ec8504fcaa41eba75a48807a4a3387.11": {
         "is_ex": true
     },
+    "73988686c4604538937f20fd65dbbd4b.16": {
+        "additional_terms": "Hospital"
+    },
     "746d43a3bcbc4f87b964f6a0760bcb34.16": {
         "is_ex": true
     },
     "793942e4b08c456f9e2df39fbe2669cf.16": {
         "is_ex": true
+    },
+    "7e20137cc6fd4bfaa11b90565ef1cc31.16": {
+        "additional_terms": "Madonna"
     },
     "8126061e1ce349ffa2c041d366d8c079.16": {
         "is_ex": true
@@ -202,6 +238,9 @@
     },
     "855c053b61e24bb9af9c5cb3c76aca04.16": {
         "is_ex": true
+    },
+    "869d1e34859f429788e0d3440780b67d.16": {
+        "nickname": "Museum and Archives"
     },
     "87856336b8514ef280c4afb1208c16d1.16": {
         "is_ex": true
@@ -224,6 +263,9 @@
     "90a830570fe8496c91246557bb187a3b.16": {
         "is_ex": true
     },
+    "91c76650ee1d44579bcc8dab74b66e29.16": {
+        "nickname": "Meadows Pond"
+    },
     "935de4c9f14e445c93177472fdcbcedb.16": {
         "is_ex": true
     },
@@ -245,6 +287,9 @@
     "a4508daf812041af8b7f3d1d14c1d902.16": {
         "is_ex": true
     },
+    "a487cc5544f74281b3ff006ba3c1a117.16": {
+        "additional_terms": "Smeltzer House"
+    },
     "a6726f705d634075a6a90d4432cb838d.16": {
         "is_ex": true
     },
@@ -255,6 +300,7 @@
         "is_ex": true
     },
     "ad027d80435046cda8b9a798be038176.16": {
+        "nickname": "Athletic Park",
         "is_ex": true
     },
     "adbf762ca10240da8fb738403f833505.16": {
@@ -328,6 +374,9 @@
     "dd9ecda99ae54cdf86bb0023ad720f83.16": {
         "is_ex": true
     },
+    "e419f9b44b1e42ee8c94e99c6cc0692c.16": {
+        "additional_terms": "ABJ"
+    },
     "e7581e26c066431aa4ecf51292ea0c12.16": {
         "is_ex": true
     },
@@ -339,6 +388,12 @@
     },
     "e9ddf298ea704876bf465b9bf2587a16.16": {
         "is_ex": true
+    },
+    "ea0862c61c804d8084faf02c4397b4a7.16": {
+        "additional_terms": "Facey Corner"
+    },
+    "ec219178ef6c4a91bcd286da71525bf0.16": {
+        "nickname": "Presbyterian Church"
     },
     "f980745e83fb48728267dffc11aef0eb.16": {
         "is_ex": true
